@@ -1,0 +1,29 @@
+{
+  "name": "excersise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HananHamidMoussa/excersise-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HananHamidMoussa/excersise-/issues"
+  },
+  "homepage": "https://github.com/HananHamidMoussa/excersise-#readme",
+  "devDependencies": {
+    "vite": "^6.2.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
