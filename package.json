@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/HananHamidMoussa/excersise-#readme",
   "devDependencies": {
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "typescript": "^5.8.2",
     "vite": "^6.2.3"
   },
   "dependencies": {
